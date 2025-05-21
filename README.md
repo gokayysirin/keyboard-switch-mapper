@@ -25,12 +25,6 @@ Keyboard Switch Mapper, hot-swap klavyenizde hangi tuşa hangi switch'i taktığ
 - **Kolay Atama**: Önce switch türünü seçip sonra klavye üzerindeki tuşa tıklayarak hızlıca atama yapabilirsiniz
 - **Kalıcı Kayıt**: Tüm switch haritanız JSON formatında kaydedilir, böylece uygulama yeniden başlatıldığında verileriniz korunur
 
-## Nasıl Kurulur?
-
-1. [Buradan](https://github.com/gokaysirin/keyboard-switch-mapper) en son sürümü indirin
-2. İndirilen ZIP dosyasını çıkarın
-3. `Keyboard Switch Mapper.exe` dosyasını çalıştırın - kurulum gerektirmez!
-
 ## Nasıl Kullanılır?
 
 1. **Switch Türleri**: Sol panelde varsayılan switch türlerini göreceksiniz. Buradan kullanacağınız switch'i seçin
